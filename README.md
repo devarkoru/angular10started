@@ -1,4 +1,8 @@
-# Portafolio
+# First Step
+
+Run `npm install` to generate node_modules folders
+
+# AngularStarted
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
